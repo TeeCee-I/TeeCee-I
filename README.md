@@ -1,4 +1,4 @@
-# Software Engineer :man_technologist::nigeria:
+# Software Engineer :man_technologist: :nigeria:
 
 **email:** teeceeiheukwumere@gmail.com
 

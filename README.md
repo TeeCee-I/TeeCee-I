@@ -1,4 +1,4 @@
-# Becoming Developer
+# Becoming Developer :man_technologist:
 - 👋 Hi, I’m Crystal Iheukwumere, a Mechatronic Engineer and I hope you find my learning and projects very insightful.
 - 👀 I’m interested in Tech and Engineering (Software Engineering and Web and Security systems).
 - 🌱 I’m currently learning C on ALX

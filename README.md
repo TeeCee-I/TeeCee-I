@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on knowledge bases.
 - 📫 How to reach me: 
 - ### email: teeceeiheukwumere@gmail.com
+- ###Linkedin: https://www.linkedin.com/in/teecee/
 - ### Phone Number: 08088625285
 
 <!---
